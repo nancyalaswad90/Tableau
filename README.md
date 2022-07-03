@@ -17,3 +17,4 @@
 https://www.mastersindatascience.org/learning/how-to-deal-with-missing-data/
 
 - [Tableau explain issue youtub ](https://www.youtube.com/watch?v=nG2EDnXyN3M)
+
