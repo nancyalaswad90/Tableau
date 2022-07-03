@@ -4,6 +4,7 @@
 # Tableau
 
 
+[Tableau Visual Guidebook.pdf](https://github.com/nancyalaswad90/Tableau/files/9034636/Tableau.Visual.Guidebook.pdf)
 
 .
 ![VxwKjYQ](https://user-images.githubusercontent.com/36210723/174478831-716c4137-1677-4194-b167-2ed9bfbacfe4.gif)
